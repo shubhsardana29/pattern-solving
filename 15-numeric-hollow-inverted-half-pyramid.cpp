@@ -36,7 +36,7 @@ int main(){
             for(int col=1;col<=n-row-1;col++){
                 cout<<"  ";
             }
-                cout<<"6 ";
+                cout<<n;
         }
         cout<<endl;
     }
